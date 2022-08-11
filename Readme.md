@@ -37,6 +37,7 @@
 ## 入门书
 
 - [Computer Science Distilled Learn the Art of Solving Computational Problems](GeneralComputing/Computer%20Science%20Distilled%20Learn%20the%20Art%20of%20Solving%20Computational%20Problems%20(Wladston%20Ferreira%20Filho)%20(z-lib.org).pdf)
+- [Classic Computer Science Problems in Python](ProgrammingLanguages/Python/Classic%20Computer%20Science%20Problems%20in%20Python.pdf)
 
 ## [Data Structures and Algorithms](Algorithm/)
 
@@ -97,11 +98,57 @@
 
 ### [Python](ProgrammingLanguages/Python/)
 
+- 入门
+  - [The Well-Grounded Python Developer](ProgrammingLanguages/Python/入门/The%20Well-Grounded%20Python%20Developer%20Version%205%20(Doug%20Farrell)%20(z-lib.org).pdf)
+  - [父与子的编程之旅：与小卡特一起学Python](ProgrammingLanguages/Python/入门/父与子的编程之旅：与小卡特一起学Python.pdf)
+- 中级
+  - [Effective-Python](ProgrammingLanguages/Python/中级/Effective_Python_(2015).pdf)
+  - [Fluent Python - Clear, Concise, and Effective Programming](ProgrammingLanguages/Python/中级/Fluent%20Python%20-%20Clear,%20Concise,%20and%20Effective%20Programming%202015.pdf)
+  - [Python Essential Reference](ProgrammingLanguages/Python/中级/Python%20Essential%20Reference,%20Fourth%20Edition.pdf)
+  - [Python-Cookbook-3rd-Edition](ProgrammingLanguages/Python/中级/Python-Cookbook-3rd-Edition.pdf)
+- 高级
+  - [High Performance Python](ProgrammingLanguages/Python/高级/2020_High_Performance_Python_-_Practical_Performant_Programming_for_Humans_O'Reilly_Media,_Inc..pdf)
+  - [Architecture Patterns with Python](ProgrammingLanguages/Python/高级/Architecture%20Patterns%20with%20Python%20Enabling%20Test-Driven%20Development,%20Domain-Driven%20Design,%20and%20Event-Driven%20Microservices%20(Harry%20J.W.%20Percival%20Bob%20Gregory)%20(z-lib.org).pdf)
+  - [CPython Internals Your Guide to the Python 3 Interpreter (Anthony Shaw)](ProgrammingLanguages/Python/高级/CPython%20Internals%20Your%20Guide%20to%20the%20Python%203%20Interpreter%20(Anthony%20Shaw)%20(z-lib.org).pdf)
+  - [Cython](ProgrammingLanguages/Python/高级/OReilly.Cython-A-Guide-for-Python-Programmers.pdf)
+  - [Python Concurrency with asyncio (Matthew Fowler)](ProgrammingLanguages/Python/高级/Python%20Concurrency%20with%20asyncio%20(Matthew%20Fowler)%20(z-lib.org).pdf)
+  - [Speed Up Your Python with Rust Optimize Python performance](ProgrammingLanguages/Python/高级/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3%20(Maxwell%20Flitton)%20(z-lib.org).pdf)
+  - [Functional Programming in Python](ProgrammingLanguages/Python/高级/functional-programming-python.pdf)
+- 数据科学相关
+  - [Python Data Science Handbook](ProgrammingLanguages/Python/DataDriven/python%20datascience%20handbook.pdf)
+  - [Data Science with Python and Dask](ProgrammingLanguages/Python/DataDriven/Data%20Science%20with%20Python%20and%20Dask)
+  - [Hands-On Data Analysis with Pandas](ProgrammingLanguages/Python/DataDriven/Data_Analysis_with_Pandas_(2019).pdf)
+  - [Hands-On Data Preprocessing in Python](ProgrammingLanguages/Python/DataDriven/Hands-On%20Data%20Preprocessing%20in%20Python%20Learn%20how%20to%20effectively%20prepare%20data%20for%20successful%20data%20analytics%20(Final%20Release)%20(Roy%20Jafari)%20(z-lib.org).pdf)
+  - [Thinking in Pandas How to Use the Python Data Analysis Library the Right Way](ProgrammingLanguages/Python/DataDriven/Thinking%20in%20Pandas%20How%20to%20Use%20the%20Python%20Data%20Analysis%20Library%20the%20Right%20Way%20(Hannah%20Stepanek)%20(z-lib.org).pdf)
+
 ### [Rust](ProgrammingLanguages/Rust/) 
+
+- 初级
+  - [Beginning Rust Get Started with Rust 2021 Edition](ProgrammingLanguages/Rust/初级/Beginning%20Rust%20Get%20Started%20with%20Rust%202021%20Edition%20(Carlo%20Milanesi)%20(z-lib.org).pdf)
+  - [Code Like a Pro in Rust](ProgrammingLanguages/Rust/初级/Code%20Like%20a%20Pro%20in%20Rust%20(MEAP%20V04)%20(Brenden%20Matthews)%20(z-lib.org).pdf)
+  - [Programming Rust](ProgrammingLanguages/Rust/初级/Programming%20Rust.pdf)
+  - [深入浅出 Rust by 范长春](ProgrammingLanguages/Rust/初级/深入浅出%20Rust%20by%20范长春%20(z-lib.org).pdf)
+- 中级
+  - [Fullstack Rust by Nate Murray (z-lib.org)](ProgrammingLanguages/Rust/中级/Fullstack%20Rust%20by%20Nate%20Murray%20(z-lib.org).pdf)
+  - [Rust Cookbook](ProgrammingLanguages/Rust/中级/Rust%20Cookbook%20(Dhinakaran,%20Vigneshwer)%20(z-lib.org).pdf)
+  - [Rust in Action by Timothy Samuel McNamara](ProgrammingLanguages/Rust/中级/Rust%20in%20Action%20by%20Timothy%20Samuel%20McNamara.pdf)
+  - [Rust Servers, Services, and Apps](ProgrammingLanguages/Rust/中级/Rust%20Servers,%20Services,%20and%20Apps%20(MEAP%20V01)%20by%20Prabhu%20Eshwarla%20(z-lib.org).pdf)
+- 高级
+  - [Rust for Rustaceans Idiomatic Programming for Experienced Developers](ProgrammingLanguages/Rust/高级/Rust%20for%20Rustaceans%20Idiomatic%20Programming%20for%20Experienced%20Developers%20(Final%20Release)%20by%20Jon%20Gjengset%20(z-lib.org).pdf)
+  - [Hands-On Functional Programming in Rust](ProgrammingLanguages/Rust/高级/Hands-On%20Functional%20Programming%20in%20Rust%20(Andrew%20Johnson)%20(z-lib.org).pdf)
+  - [Hands-On Concurrency With Rust](ProgrammingLanguages/Rust/高级/Hands-On%20Concurrency%20With%20Rust%20(Brian%20L.%20Troutwine)%20(z-lib.org).pdf)
+  - [Hands-On Functional Programming in Rust](ProgrammingLanguages/Rust/高级/Hands-On%20Functional%20Programming%20in%20Rust%20(Andrew%20Johnson)%20(z-lib.org).pdf)
 
 ### [C](ProgrammingLanguages/C/)
 
+- [The C Programming Language - 2nd edition](ProgrammingLanguages/C/The%20C%20Programming%20Language%20-%202nd%20edition.pdf)
+
 ### [Go](ProgrammingLanguages/Go/)
+
+- [The Way To Go-A Thorough Introduction To The Go Programming Language-Balbaert-文字版](ProgrammingLanguages/Go/The%20Way%20To%20Go-A%20Thorough%20Introduction%20To%20The%20Go%20Programming%20Language-Balbaert-文字版.pdf)
+- [Concurrency in Go](ProgrammingLanguages/Go/Concurrency-in-Go_Tools-and-Techniques-for-Developers.pdf)
+- [Go in Action](ProgrammingLanguages/Go/go-in-action.pdf)
+- [The Go Programming Language](ProgrammingLanguages/Go/The%20Go%20Programming%20Language.pdf)
 
 ### [Jave](ProgrammingLanguages/Java/)
 
