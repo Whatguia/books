@@ -164,6 +164,12 @@
 
 ## [面试、刷题](Leetcode/)
 
+- [Cracking the Coding Interview 6th Edition](Leetcode/Cracking%20the%20Coding%20Interview%206th%20Edition.pdf)
+- [labuladong的刷题笔记V1.4](Leetcode/labuladong的刷题笔记V1.4.pdf)
+- [labuladong的算法秘籍V1.4](Leetcode/labuladong的算法秘籍V1.4.pdf)
+- [LeetCode 101 - A LeetCode Grinding Guide (C++ Version)](Leetcode/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C++%20Version).pdf)
+- [LeetCode in Go 中文](Leetcode/leetcode_go.v1.6.6.pdf)
+
 ## [Machine Learning](ML_RL/)
 
 ## [量子计算机](QuantumComputing/)
@@ -177,6 +183,8 @@
 ## [计算机语言理论](PL%20theory/)
 
 ## [比特币和区块链](CryptoRelated/)
+
+- [比特币 一种点对点的电子现金系统 - 白皮书翻译](CryptoRelated/比特币/比特币%20一种点对点的电子现金系统.pdf)
 
 ## [程序员的哲学书](哲学/)
 
